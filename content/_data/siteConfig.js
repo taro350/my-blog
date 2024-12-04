@@ -9,7 +9,7 @@ module.exports = {
     // OpenGraph tags and feeds.
     // Can also be used anywhere on the site as a Nunjucks variable:
     // {{ siteConfig.site.logo }}
-    title: 'Bliss',
+    title: 'Tarottery',
     // Site description. Used in many places, including meta title,
     // OpenGraph tags and feeds.
     // It is also used as a fallback description if no custom description
@@ -53,14 +53,14 @@ module.exports = {
     // super happy if you keep it intact :)
     // And if you decide to remove it after all, be sure to edit
     // content/_includes/footer.njk as well
-    template: {
-      name: 'Bliss',
-      url: 'https://github.com/lwojcik/eleventy-template-bliss',
-      credit: {
-        name: 'Łukasz Wójcik',
-        url: 'https://lukaszwojcik.net/',
-      },
-    },
+    // template: {
+    //   name: 'Bliss',
+    //   url: 'https://github.com/lwojcik/eleventy-template-bliss',
+    //   credit: {
+    //     name: 'Łukasz Wójcik',
+    //     url: 'https://lukaszwojcik.net/',
+    //   },
+    // },
   },
   // ---------------------------------------------------------------------------
   // Information about YOU, the site author
@@ -68,7 +68,7 @@ module.exports = {
   author: {
     // Your name. Self-explanatory I guess?
     // And you can use it anywhere on the site as {{ siteConfig.author.name }}
-    name: 'John Doe',
+    name: 'Taro Saika',
     // Your website URL. Used in the footer. Optional.
     // Doesn't have to be the same link as this site
     url: 'https://eleventy-bliss.vercel.app/',

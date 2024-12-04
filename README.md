@@ -1,28 +1,4 @@
-# Bliss - Blog Theme For Eleventy
-
-**Bliss** is a single-column blog template for [Eleventy static site generator](https://11ty.dev) with strong focus on simplicity without sacrificing functionality.
-
-It is a modified and improved version of the theme running [my personal blog](https://blog.lukaszwojcik.net/).
-
-## Features
-
-- **light / dark mode switcher** + honoring browser color scheme preference
-- **sharing buttons for popular social media** (including Mastodon!) + copying post URL to clipboard
-- **Mastodon integration:** generating `.well-known/webfinger` file + automatic generation of `<link rel="me">` tags for site ownership verification
-- **translation ready** (support for custom language tags + separate file with static phrases)
-- **manifest file** for PWA
-- **automatic OpenGraph image generation**
-- **code syntax highlighting** with PrismJS using [Eleventy syntax highlighting plugin](https://www.11ty.dev/docs/plugins/syntaxhighlight/)
-- **HTML, JS, JSON, CSS** optimizations
-- **RSS, JSON, Twtxt.txt** feeds + JSON-LD data
-- **accessibility** features
-- **HSL color palette** and CSS variables for straightforward personalization
-- modular CSS augmented with SASS
-- custom disclaimers alongside post content
-- and more
-
-## Live demo
-
+# Live demo
 https://eleventy-bliss.lkmt.us/
 
 ## Setup

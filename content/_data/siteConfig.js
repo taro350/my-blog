@@ -91,20 +91,20 @@ module.exports = {
   // ---------------------------------------------------------------------------
   // Pages linked in the footer on the right side
   // ---------------------------------------------------------------------------
-  metaPages: [
-    {
-      url: 'https://example.org/link-1/',
-      title: 'Example link 1',
-    },
-    {
-      url: 'https://example.org/link-2/',
-      title: 'Example link 2',
-    },
-    {
-      url: 'https://example.org/link-3/',
-      title: 'Example link 3',
-    },
-  ],
+  // metaPages: [
+  //   {
+  //     url: 'https://example.org/link-1/',
+  //     title: 'Example link 1',
+  //   },
+  //   {
+  //     url: 'https://example.org/link-2/',
+  //     title: 'Example link 2',
+  //   },
+  //   {
+  //     url: 'https://example.org/link-3/',
+  //     title: 'Example link 3',
+  //   },
+  // ],
   // ---------------------------------------------------------------------------
   // Default settings for OpenGraph functionality (tags and generated images)
   // ---------------------------------------------------------------------------

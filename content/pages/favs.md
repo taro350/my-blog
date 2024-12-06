@@ -1,7 +1,7 @@
 ---
 title: Favs
 description: My favorite blogs out there
-customPermalink: /fav/
+customPermalink: /favs/
 eleventyNavigation:
   key: Custom permalink page
   order: 4

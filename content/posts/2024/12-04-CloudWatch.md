@@ -7,6 +7,8 @@ tags:
   - CloudWatch
   - Security
 hasAsides: true
+disclaimer:
+  text: 3 minutes to read.
 ---
 
 # Monitoring and Managing Resources with Amazon CloudWatch: A Step-by-Step Guide
